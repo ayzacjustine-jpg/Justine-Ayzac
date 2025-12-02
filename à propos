@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>À propos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h1>mon portfolio</h1>
+  <ul>
+    <li><a href="index.html">accueil</a></li>
+    <li><a href="a-propos.html">à propos</a></li>
+    <li><a href="production.html">production</a></li>
+    <li><a href="coordination.html">coordination</a></li>
+    <li><a href="commissariat.html">commissariat</a></li>
+  </ul>
+</nav>
+
+<section>
+  <h2>à propos</h2>
+
+  <img src="images/placeholder.jpg" style="width:100%; max-width:350px; border-radius:10px; margin-bottom:20px;" alt="portrait">
+
+  <p>
+    Ici, tu pourras ajouter une biographie, ton parcours, ton approche artistique ou professionnelle, 
+    ainsi que les collaborations et institutions avec lesquelles tu as travaillé.
+  </p>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Production d’exposition</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h1>mon portfolio</h1>
+  <ul>
+    <li><a href="index.html">accueil</a></li>
+    <li><a href="a-propos.html">à propos</a></li>
+    <li><a href="production.html">production</a></li>
+    <li><a href="coordination.html">coordination</a></li>
+    <li><a href="commissariat.html">commissariat</a></li>
+  </ul>
+</nav>
+
+<section>
+  <h2>production d’exposition</h2>
+  <img src="images/placeholder.jpg" style="width:100%; border-radius:12px; margin-bottom:20px;">
+  <p>
+    Présente ici tes projets de production : expositions, installations, collaborations avec artistes, 
+    institutions, festivals… Tu peux ajouter des images, descriptions et dates.
+  </p>
+</section>
+
+</body>
+</html>

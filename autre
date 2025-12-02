@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Commissariat d’exposition</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h1>mon portfolio</h1>
+  <ul>
+    <li><a href="index.html">accueil</a></li>
+    <li><a href="a-propos.html">à propos</a></li>
+    <li><a href="production.html">production</a></li>
+    <li><a href="coordination.html">coordination</a></li>
+    <li><a href="commissariat.html">commissariat</a></li>
+  </ul>
+</nav>
+
+<section>
+  <h2>commissariat d’exposition</h2>
+  <img src="images/placeholder.jpg" style="width:100%; border-radius:12px; margin-bottom:20px;">
+  <p>
+    Ajoute ici tes projets curatoriaux : concept d’exposition, sélection d’artistes, textes, 
+    scénographie, etc.
+  </p>
+</section>
+
+</body>
+</html>
